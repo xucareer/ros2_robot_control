@@ -66,7 +66,7 @@ def generate_launch_description():
                     FindPackageShare("applications"),
                     "config",
                     "ur5e",
-                    "kinematics@B211.yaml",
+                    "kinematics@bph.yaml",
                 ]
             )
     
